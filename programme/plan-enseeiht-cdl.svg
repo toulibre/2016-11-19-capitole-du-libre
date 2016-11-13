@@ -869,17 +869,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.2630285"
-     inkscape:cx="148.40812"
-     inkscape:cy="1510.614"
+     inkscape:zoom="2.104228"
+     inkscape:cx="915.07357"
+     inkscape:cy="1200.233"
      inkscape:document-units="px"
      inkscape:current-layer="layer4"
      showgrid="true"
      objecttolerance="20"
-     inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-width="3200"
+     inkscape:window-height="1679"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -911,7 +911,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1036,7 +1036,7 @@
              sodipodi:role="line"
              x="1623.2906"
              y="-1128.0648"
-             id="tspan3453">MDP : libre15</tspan></text>
+             id="tspan3453">MDP : libre16</tspan></text>
         <g
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;font-family:'Arial Black';-inkscape-font-specification:'Arial Black,';display:inline;fill:#333333;fill-opacity:1;stroke:none"
            transform="matrix(0.12354168,0,0,0.14953575,1387.6522,-1339.7558)"
@@ -1091,7 +1091,7 @@
              id="tspan6050"
              sodipodi:role="line"
              x="1527.9244"
-             y="-1356.4617">#cdl2015</tspan><tspan
+             y="-1356.4617">#cdl2016</tspan><tspan
              id="tspan6054"
              sodipodi:role="line"
              x="1527.9244"
