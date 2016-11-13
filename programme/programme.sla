@@ -1894,7 +1894,7 @@
             <para PARENT="Titre2"/>
             <ITEXT FONTSIZE="9.5" CH="Blender, Krita, Gimp, Inkscape, Freecad, Synfig, la réalisation d'œuvres artistiques avec des outils libres."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONTSIZE="9.5" CH="Logiciels libres au quotidien"/>
+            <ITEXT FONTSIZE="9.5" CH="Enjeux du libre"/>
             <para PARENT="Titre2"/>
             <ITEXT FONTSIZE="9.5" CH="Environnement de travail, bureautique, utilitaires."/>
             <para PARENT="Default Paragraph Style"/>
@@ -1916,7 +1916,7 @@
             <para PARENT="Titre2"/>
             <ITEXT FONTSIZE="9.5" CH="(Re)découverte des Arduino, Raspberry Pi, objets connectés lembarqué."/>
             <para PARENT="Default Paragraph Style"/>
-            <ITEXT FONTSIZE="9.5" CH="Monaies Libre"/>
+            <ITEXT FONTSIZE="9.5" CH="Monnaies Libre"/>
             <para PARENT="Titre2"/>
             <ITEXT FONTSIZE="9.5" CH="Capitole du Libre accueille cette année les rencontres des monnaies libres."/>
             <para PARENT="Default Paragraph Style"/>
