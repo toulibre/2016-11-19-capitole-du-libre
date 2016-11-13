@@ -1859,7 +1859,9 @@
             <para PARENT="Edito" ALIGN="3"/>
             <ITEXT CH="Quatorze thématiques sont abordées cette année regroupant cent une conférences et vingt neuf ateliers sur deux jours. Huit thématiques sont adaptées pour tous les publics, et six autres sont plus dédiées à un public averti. "/>
             <para PARENT="Edito" ALIGN="3"/>
-            <ITEXT CH="Animations et stands sont également au programme, notamment des ateliers pour les enfants ainsi que le village des associations œuvrant pour le logiciel libre, la neutralité du Net, mais pas seulement. "/>
+            <ITEXT CH="Animations et stands sont également au programme, notamment des ateliers pour les enfants ainsi que le village des associations œuvrant pour le logiciel libre, la neutralité du Net, mais pas seulement."/>
+            <para PARENT="Edito" ALIGN="3"/>
+            <ITEXT CH="Fidèle à notre habitude, vous pouvez profitez de ce moment pour venir avec votre ordinateur et retrouver notre équipe de passionnés pour vous aider à installer une distribution GNU/Linux."/>
             <para PARENT="Edito" ALIGN="3"/>
             <ITEXT CH="Vous trouverez enfin la liste de nos partenaires et soutiens financiers, sans lesquels cet évènement, malgré toute notre bonne volonté bénévole, ne pourrait avoir lieu. "/>
             <para PARENT="Edito" ALIGN="3"/>
@@ -1926,7 +1928,7 @@
             <ITEXT FCOLOR="Red ocre" FSHADE="100" CH="Les animations"/>
             <para PARENT="Titre1"/>
             <ITEXT CH="Install party"/>
-            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Titre2"/>
             <ITEXT FONTSIZE="11" CH="Trouvez de"/>
             <ITEXT CH=" l'aide pour installer GNU/Linux sur votre ordinateur."/>
             <para PARENT="Default Paragraph Style"/>
@@ -3783,6 +3785,10 @@
             <para PARENT="Sponsors" ALIGN="4"/>
             <ITEXT CH="CS s’impose aujourd’hui comme un partenaire de confiance, reconnu par ses grands clients en raison de l’expertise, de l’engagement et du sens du service de ses collaborateurs."/>
             <trail PARENT="Sponsors" ALIGN="4"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="401" YPOS="91.5882352941176" WIDTH="97.705882352941" HEIGHT="110.294117647059" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.174474789915966" LOCALSCY="0.174474789915966" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="3" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="1" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="2016-11-12_capitol-du-libre_2016_by-david-revoy.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 97.7059 0 97.7059 0 97.7059 0 97.7059 0 97.7059 110.294 97.7059 110.294 97.7059 110.294 97.7059 110.294 0 110.294 0 110.294 0 110.294 0 110.294 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 97.7059 0 97.7059 0 97.7059 0 97.7059 0 97.7059 110.294 97.7059 110.294 97.7059 110.294 97.7059 110.294 0 110.294 0 110.294 0 110.294 0 110.294 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="1" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
